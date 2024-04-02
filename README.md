@@ -1,11 +1,11 @@
 ## 🖥️ Projeto
-Esse é um projeto Web Responsivo de um Portfólio para exibir minha evolução nos estudos.
+Esse é um projeto Web Responsivo de um site de hamburgues.
 
 ## 🚀 Tecnologias 
-Esse projeto foi desenvolvido durante o NLW da Rocketseat com as seguintes tecnologias:
+Esse projeto foi desenvolvido durante o curso B7Web com as seguintes tecnologias:
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - Git e Github
 
 ## 🏷️ Layout
